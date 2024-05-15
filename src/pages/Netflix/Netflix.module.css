@@ -20,7 +20,7 @@
 
 .netflixCard p {
     font-size: 14px;
-    color: #000000;
+    color: #d82839;
 }
 
 .pag {
@@ -35,18 +35,18 @@
     margin: 0 5px;
     border: none;
     border-radius: 4px;
-    background-color: #007bff;
+    background-color: #d82839;
     color: #fff;
     cursor: pointer;
     transition: background-color 0.3s ease;
 }
 
 .pagButton:hover {
-    background-color: #0056b3;
+    background-color: #d82839;
 }
 
 .pagButton.active {
-    background-color: #0056b3;
+    background-color: #d82839;
 }
 
 .pagButton:disabled {
